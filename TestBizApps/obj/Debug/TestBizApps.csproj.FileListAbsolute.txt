@@ -1,0 +1,12 @@
+F:\VS2012Projects\TestBizApps\TestBizApps\bin\Debug\TestBizApps.exe.config
+F:\VS2012Projects\TestBizApps\TestBizApps\bin\Debug\TestBizApps.exe
+F:\VS2012Projects\TestBizApps\TestBizApps\bin\Debug\TestBizApps.pdb
+F:\VS2012Projects\TestBizApps\TestBizApps\obj\Debug\TestBizApps.exe
+F:\VS2012Projects\TestBizApps\TestBizApps\obj\Debug\TestBizApps.pdb
+F:\VS2012Projects\TestBizApps\TestBizApps\obj\Debug\TestBizApps.csprojResolveAssemblyReference.cache
+C:\Users\Аяз\Desktop\TestBizApps\TestBizApps\bin\Debug\TestBizApps.exe.config
+C:\Users\Аяз\Desktop\TestBizApps\TestBizApps\bin\Debug\TestBizApps.exe
+C:\Users\Аяз\Desktop\TestBizApps\TestBizApps\bin\Debug\TestBizApps.pdb
+C:\Users\Аяз\Desktop\TestBizApps\TestBizApps\obj\Debug\TestBizApps.csprojResolveAssemblyReference.cache
+C:\Users\Аяз\Desktop\TestBizApps\TestBizApps\obj\Debug\TestBizApps.exe
+C:\Users\Аяз\Desktop\TestBizApps\TestBizApps\obj\Debug\TestBizApps.pdb

@@ -1,0 +1,4 @@
+F:\VS2012Projects\TestBizApps\TestBizApps\bin\Release\TestBizApps.exe.config
+F:\VS2012Projects\TestBizApps\TestBizApps\bin\Release\TestBizApps.exe
+F:\VS2012Projects\TestBizApps\TestBizApps\obj\Release\TestBizApps.csprojResolveAssemblyReference.cache
+F:\VS2012Projects\TestBizApps\TestBizApps\obj\Release\TestBizApps.exe

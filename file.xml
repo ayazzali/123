@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<OtdelKadrov xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dolzhnosti>
+    <string>developer</string>
+    <string>qa</string>
+    <string>project manager</string>
+    <string>business analyst</string>
+    <string>product owner</string>
+    <string>Стажёр</string>
+    <string>Директор</string>
+  </dolzhnosti>
+  <otdely>
+    <string>отдел1</string>
+    <string>отдел2</string>
+    <string>отдел3</string>
+    <string>отдел4</string>
+    <string>новый отдел</string>
+  </otdely>
+  <sotrudniki>
+    <Sotrudnik>
+      <name>ayaz</name>
+      <lastname>Zali</lastname>
+      <middlename>Aidar</middlename>
+      <dolzhnost>Директор</dolzhnost>
+      <otdel>отдел2</otdel>
+      <phone>89518954606</phone>
+      <rukovoditelID />
+      <sotrudnikID>0</sotrudnikID>
+    </Sotrudnik>
+    <Sotrudnik>
+      <name>Моисей</name>
+      <lastname>Кузнецов</lastname>
+      <middlename>Дмитриевич</middlename>
+      <dolzhnost>project manager</dolzhnost>
+      <otdel>отдел1</otdel>
+      <phone>89518954607</phone>
+      <rukovoditelID>0</rukovoditelID>
+      <sotrudnikID>3</sotrudnikID>
+    </Sotrudnik>
+    <Sotrudnik>
+      <name>Вася</name>
+      <lastname>Пупкин</lastname>
+      <middlename>Моисеевич</middlename>
+      <dolzhnost>product owner</dolzhnost>
+      <otdel>отдел1</otdel>
+      <phone>89174567865</phone>
+      <rukovoditelID>0</rukovoditelID>
+      <sotrudnikID>1</sotrudnikID>
+    </Sotrudnik>
+    <Sotrudnik>
+      <name>Аскар</name>
+      <lastname>Валеев</lastname>
+      <middlename>Дмитриеыич</middlename>
+      <dolzhnost>project manager</dolzhnost>
+      <otdel>отдел1</otdel>
+      <phone>89518954608</phone>
+      <rukovoditelID>1</rukovoditelID>
+      <sotrudnikID>2</sotrudnikID>
+    </Sotrudnik>
+    <Sotrudnik>
+      <name>Юлия</name>
+      <lastname>Сафонова</lastname>
+      <middlename>Михайловна</middlename>
+      <dolzhnost>product owner</dolzhnost>
+      <otdel>отдел1</otdel>
+      <phone>89174567858</phone>
+      <rukovoditelID>0</rukovoditelID>
+      <sotrudnikID>4</sotrudnikID>
+    </Sotrudnik>
+    <Sotrudnik>
+      <name>Андрей</name>
+      <lastname>Загидуллин</lastname>
+      <middlename>Фаитович</middlename>
+      <dolzhnost>developer</dolzhnost>
+      <otdel>отдел1</otdel>
+      <phone>8954678984</phone>
+      <rukovoditelID>1</rukovoditelID>
+      <sotrudnikID>5</sotrudnikID>
+    </Sotrudnik>
+    <Sotrudnik>
+      <name>Имя</name>
+      <lastname>Фамили</lastname>
+      <middlename>Отч</middlename>
+      <dolzhnost>developer</dolzhnost>
+      <otdel>отдел1</otdel>
+      <phone>8954605447</phone>
+      <rukovoditelID>1</rukovoditelID>
+      <sotrudnikID>92be1504b2dc847b8a0bf7abf286d968</sotrudnikID>
+    </Sotrudnik>
+    <Sotrudnik>
+      <name>он</name>
+      <lastname>ш</lastname>
+      <middlename>гш</middlename>
+      <dolzhnost />
+      <otdel />
+      <phone />
+      <rukovoditelID>0</rukovoditelID>
+      <sotrudnikID>5934e630577d1b15c44d1c216a23507b</sotrudnikID>
+    </Sotrudnik>
+  </sotrudniki>
+</OtdelKadrov>

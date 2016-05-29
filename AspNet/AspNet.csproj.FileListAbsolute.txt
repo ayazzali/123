@@ -1,0 +1,5 @@
+F:\VS2012Projects\TestBizApps\AspNet\bin\AspNet.dll
+F:\VS2012Projects\TestBizApps\AspNet\bin\AspNet.pdb
+F:\VS2012Projects\TestBizApps\AspNet\obj\Debug\AspNet.csprojResolveAssemblyReference.cache
+F:\VS2012Projects\TestBizApps\AspNet\obj\Debug\AspNet.dll
+F:\VS2012Projects\TestBizApps\AspNet\obj\Debug\AspNet.pdb

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<OtdelKadrov xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dolzhnosti>
+    <string>developer</string>
+    <string>qa</string>
+    <string>project manager</string>
+    <string>business analyst</string>
+    <string>product owner</string>
+  </dolzhnosti>
+  <otdely>
+    <string>отдел1</string>
+    <string>отдел2</string>
+    <string>отдел3</string>
+    <string>отдел4</string>
+  </otdely>
+  <sotrudniki>
+    <Sotrudnik>
+      <name>ayaz</name>
+      <lastname>Zali</lastname>
+      <middlename>Aidar</middlename>
+      <dolzhnost>developer</dolzhnost>
+      <otdel>otdel1</otdel>
+      <phone>89518954606</phone>
+      <rukovoditelID />
+      <sotrudnikID />
+    </Sotrudnik>
+    <Sotrudnik>
+      <name>вап</name>
+      <lastname>вап</lastname>
+      <middlename>вап</middlename>
+      <dolzhnost>вап</dolzhnost>
+      <otdel>вап</otdel>
+      <phone>вап</phone>
+      <rukovoditelID>0</rukovoditelID>
+      <sotrudnikID>1</sotrudnikID>
+    </Sotrudnik>
+    <Sotrudnik>
+      <name>йцу</name>
+      <lastname>йцу</lastname>
+      <middlename>йцу</middlename>
+      <dolzhnost />
+      <otdel />
+      <phone>йцу</phone>
+      <rukovoditelID>1</rukovoditelID>
+      <sotrudnikID>1</sotrudnikID>
+    </Sotrudnik>
+    <Sotrudnik>
+      <name>Вася</name>
+      <lastname>ПУпкин </lastname>
+      <middlename>Аркадиевич</middlename>
+      <dolzhnost>qa</dolzhnost>
+      <otdel>отдел3</otdel>
+      <phone>89518954606</phone>
+      <rukovoditelID>0</rukovoditelID>
+      <sotrudnikID>1</sotrudnikID>
+    </Sotrudnik>
+  </sotrudniki>
+</OtdelKadrov>
