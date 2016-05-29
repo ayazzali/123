@@ -87,15 +87,5 @@
       <rukovoditelID>1</rukovoditelID>
       <sotrudnikID>92be1504b2dc847b8a0bf7abf286d968</sotrudnikID>
     </Sotrudnik>
-    <Sotrudnik>
-      <name>он</name>
-      <lastname>ш</lastname>
-      <middlename>гш</middlename>
-      <dolzhnost />
-      <otdel />
-      <phone />
-      <rukovoditelID>0</rukovoditelID>
-      <sotrudnikID>5934e630577d1b15c44d1c216a23507b</sotrudnikID>
-    </Sotrudnik>
   </sotrudniki>
 </OtdelKadrov>

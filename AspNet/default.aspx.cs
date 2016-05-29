@@ -153,7 +153,7 @@ namespace AspNet
                     if (soID == node.sotrudnikID)
                     {
                         div.Text += @"</BR>
-<li> <a href="+'"'+"WebForm2.aspx?id="+node.sotrudnikID+'"'+">"+node.lastname + ' ' + node.name + ' ' + node.middlename+' '+node.otdel+' '+node.dolzhnost+' ' +node.phone +"</a></li>";
+<li> <a href=" + '"' + "default.aspx?id=" + node.sotrudnikID + '"' + ">" + node.lastname + ' ' + node.name + ' ' + node.middlename + ' ' + node.otdel + ' ' + node.dolzhnost + ' ' + node.phone + "</a></li>";
                     }
                 }
             //ищем подчинённых
